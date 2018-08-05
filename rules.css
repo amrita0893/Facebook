@@ -1,0 +1,52 @@
+
+
+#header{
+background-color:#626792;
+color:white;
+}
+
+
+.row{
+margin-top:20px;
+margin-bottom:10px;
+}
+
+#slidebar{
+height:600px;
+}
+#menu{
+height:600px;
+overflow:auto;
+}
+#main{
+height:600px;
+overflow:auto;
+}
+#main::-webkit-scrollbar {
+ display:none;
+}
+#menu,#main,#slidebar{
+background-color:#e9ebee;
+}
+.white_text{
+color:white!important;
+}
+.style{
+margin-left:15px;
+margin-top:10px;
+
+}
+.panel-body .glyphicon{
+margin-left:10px;
+margin-right:4px;
+}
+
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+.activity{
+background-color:white;
+}
